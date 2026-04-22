@@ -47,6 +47,10 @@ L’application est structurée en plusieurs couches :
 
 Une vidéo démonstrative du fonctionnement de l’application est incluse dans le projet.
 
+
+https://github.com/user-attachments/assets/04ffe9fd-c0ab-450a-8053-023adbb6441c
+
+
 ### 📁 Emplacement
 
 ```
